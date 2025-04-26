@@ -5,10 +5,12 @@
 
 # GeeksforGeeks (GFG) Solutions
 Solutions of GeeksforGeeks's problemss that I have solved on [my GeeksforGeeks profile](https://www.geeksforgeeks.org/user/devgoyalg/) for the given topics :
-- [Arrays](https://www.geeksforgeeks.org/explore?page=3&category=Arrays&sortBy=submissions)
-- [Matrix](https://www.geeksforgeeks.org/explore?page=1&category=Matrix&sortBy=submissions)
-- [Strings](https://www.geeksforgeeks.org/explore?page=1&category=Strings&sortBy=submissions)
-  
-## Solutions are given in their respective folders as given in the repository.
+
+| Topics                    | Practice       | Solutions                 |
+|-----------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|
+| Arrays        | [Practice Here](https://www.geeksforgeeks.org/explore?page=3&category=Arrays&sortBy=submissions) | [Solutions Here]() |
+| Matrix        | [Practice Here](https://www.geeksforgeeks.org/explore?page=1&category=Matrix&sortBy=submissions) | [Solutions Here]() |
+| Strings       | [Practice Here](https://www.geeksforgeeks.org/explore?page=1&category=Strings&sortBy=submissions) | [Solutions Here]() |
+
 # Author 🤖
 **Dev Goyal**
