@@ -8,9 +8,9 @@ Solutions of GeeksforGeeks's problemss that I have solved on [my GeeksforGeeks p
 
 | Topics                    | Practice       | Solutions                 |
 |-----------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|
-| Arrays        | [Practice Here](https://www.geeksforgeeks.org/explore?page=3&category=Arrays&sortBy=submissions) | [Solutions Here]() |
-| Matrix        | [Practice Here](https://www.geeksforgeeks.org/explore?page=1&category=Matrix&sortBy=submissions) | [Solutions Here]() |
-| Strings       | [Practice Here](https://www.geeksforgeeks.org/explore?page=1&category=Strings&sortBy=submissions) | [Solutions Here]() |
+| Arrays        | [Practice Here](https://www.geeksforgeeks.org/explore?page=3&category=Arrays&sortBy=submissions) | [Solutions Here](https://github.com/DevGoyalG/GFG-Solutions/tree/main/Arrays) |
+| Matrix        | [Practice Here](https://www.geeksforgeeks.org/explore?page=1&category=Matrix&sortBy=submissions) | [Solutions Here](https://github.com/DevGoyalG/GFG-Solutions/tree/main/Matrix) |
+| Strings       | [Practice Here](https://www.geeksforgeeks.org/explore?page=1&category=Strings&sortBy=submissions) | [Solutions Here](https://github.com/DevGoyalG/GFG-Solutions/tree/main/Strings) |
 
 # Author 🤖
 **Dev Goyal**
